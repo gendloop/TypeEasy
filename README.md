@@ -1,7 +1,7 @@
-# RepoName
+# TypeEasy
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/TypeEasy
 ```
